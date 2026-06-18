@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "KulinerPOS",
+    "slug": "kulinerpos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F8FAFC",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.kulinerpos"
+    }
+  }
+}
